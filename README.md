@@ -8,3 +8,4 @@ PCB 3D:
 
 ![PCB back](../assets/images/piano-lights-3d-back-2.0.0.png?raw=true)
 
+![PCB back again](https://github.com/ddribin/git-lfs-readme-test/raw/assets/images/piano-lights-3d-back-2.0.0.png)
